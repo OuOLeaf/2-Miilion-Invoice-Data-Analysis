@@ -2,7 +2,7 @@
 
 **Classify these invoice data into different types and get a cleaner data for further study.**
 
-<p align="center"><img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-photos/invoice_title.png?raw=true" width="400" height="300"/></p>
+<p align="center"><img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-photo/invoice_title.png?raw=true" width="400" height="300"/></p>
 
 ### About this project
 An invoice is an essential record of everyday transactions. Whether we purchase a coffee, a cigarette, or a cake to celebrate a friend's birthday, the list of items on an invoice can often be ambiguous and difficult to interpret. It is crucial, however, to have a clear understanding of the products or services we buy and the corresponding amounts we pay for them. To address this issue, I am eager to explore methods for accurately labeling invoice data. By categorizing invoice data, we can gain valuable insights into customer behaviors and market trends, allowing us to develop more effective business strategies. 
@@ -15,7 +15,7 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
 
 ### Technologies used ⚙️:
 
-- Python <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/blob/main/readme-svg/python.svg" alt="Spotify" width="35" height="20"/>
+- Python <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/blob/main/readme-svg/python.svg" width="35" height="20"/>
 - MSSQL
 - Excel
 
