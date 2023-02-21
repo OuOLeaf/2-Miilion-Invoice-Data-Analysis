@@ -1,6 +1,6 @@
 <h1 align="center"> Invoice Data Analysis Using Python and MSSQL </h1>
 
-**I try to classify these invoice data into different types and get a cleaner data for further study.**
+**Classify these invoice data into different types and get a cleaner data for further study.**
 
 <p align="center"><img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-photos/invoice_title.png?raw=true" width="400" height="300"/></p>
 
