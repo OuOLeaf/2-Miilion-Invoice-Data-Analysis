@@ -2,7 +2,7 @@
 
 **I try to classify these invoice data into different types and get a cleaner data for further study.**
 
-<p align="center"><img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-photos/invoice_title.png?raw=true" width="600" height="600"/></p>
+<p align="center"><img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-photos/invoice_title.png?raw=true" width="600" height="400"/></p>
 
 ### About this project
 An invoice is an essential record of everyday transactions. Whether we purchase a coffee, a cigarette, or a cake to celebrate a friend's birthday, the list of items on an invoice can often be ambiguous and difficult to interpret. It is crucial, however, to have a clear understanding of the products or services we buy and the corresponding amounts we pay for them.
