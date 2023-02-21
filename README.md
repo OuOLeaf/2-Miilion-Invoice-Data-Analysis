@@ -1,6 +1,6 @@
 <h1 align="center"> Invoice Data Analysis Using Python and MSSQL </h1>
 
-**In this project, I try to classify these invoice data into different types. Get a cleaner data for further study.**
+**\I try to classify these invoice data into different types and get a cleaner data for further study.**
 
 
 ### About this project
