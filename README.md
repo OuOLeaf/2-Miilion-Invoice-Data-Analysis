@@ -16,8 +16,12 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
 ### Technologies used ⚙️:
 
 - Python <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/python.svg" alt = "Python" width="35" height="20"/>
-- MSSQL
-- Excel
+- MSSQL <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/mssql.svg" alt = "mssql" width="35" height="20"/>
+- Excel <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/excel.svg" alt = "excel" width="35" height="20"/>
 
-- Python Library: 
+##### Python Libraries : 
+- Selenium <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/selenium.svg" alt = "selenium" width="35" height="20"/> |
+  Multiprocessing <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/multiprocess.svg" alt = "multiprocess" width="35" height="20"/> | 
+  Pandas  <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/pandas.svg" alt = "pandas" width="35" height="20"/>
+  | Numpy <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/numpy.svg" alt = "numpy" width="35" height="20"/>
 
