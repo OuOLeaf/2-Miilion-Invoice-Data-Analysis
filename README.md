@@ -1,2 +1,9 @@
-# 200-miilion-Invoice-Data-Analysis
- Data Cleaning, Web scrapping, Distributed Analysis
+<h1 align="center"> Invoice Data Analysis Using Python and MSSQL </h1>
+
+**In this project, I try to classify these invoice data into different types. Get a cleaner data for further study.**
+
+
+### About this project
+An invoice is an essential record of everyday transactions. Whether we purchase a coffee, a cigarette, or a cake to celebrate a friend's birthday, the list of items on an invoice can often be ambiguous and difficult to interpret. It is crucial, however, to have a clear understanding of the products or services we buy and the corresponding amounts we pay for them.
+
+To address this issue, I am eager to explore methods for accurately labeling invoice data. By categorizing invoice data, we can gain valuable insights into customer behaviors and market trends, allowing us to develop more effective business strategies. Such insights can guide us in making informed decisions about product offerings, pricing, and marketing efforts, among other things. With this in mind, I believe it is essential to develop a systematic approach to categorizing invoice data to optimize our decision-making processes and ultimately drive business growth.
