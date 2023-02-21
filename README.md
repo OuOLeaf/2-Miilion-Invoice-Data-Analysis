@@ -15,7 +15,7 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
 
 ### Technologies used ⚙️:
 
-- Python <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/readme-svg/python.svg" width="35" height="20"/>
+- Python <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/readme-svg/python.svg" alt = "Python" width="35" height="20"/>
 - MSSQL
 - Excel
 
