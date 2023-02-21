@@ -11,4 +11,13 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
 
 - Create a database for storage of 2 million invoice data 
 
-- Classified 40000 unique items data in one day with distributed computing
+- Classified 40000 unique items in one day with distributed computing
+
+### Technologies used ⚙️:
+
+- Python <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/blob/main/readme-svg/python.svg" alt="Spotify" width="35" height="20"/>
+- MSSQL
+- Excel
+
+- Python Library: 
+
