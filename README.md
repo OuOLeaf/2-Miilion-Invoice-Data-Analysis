@@ -25,3 +25,8 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
   Pandas  <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/pandas.svg" alt = "pandas" width="35" height="20"/>
   | Numpy <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/numpy.svg" alt = "numpy" width="35" height="20"/>
 
+### Share My Results
+
+- Medium 
+
+- display GIF
