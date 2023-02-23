@@ -26,8 +26,6 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
   | Numpy <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/numpy.svg" alt = "numpy" width="35" height="20"/>
 
 ### Share My Results
-
-- Medium 
-
 - Work flow
-  <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-gif/invoice_classify.gif" alt = "flow"/>
+
+ <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-gif/invoice_classify.gif" alt = "flow"/>
