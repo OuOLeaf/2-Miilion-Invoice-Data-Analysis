@@ -29,4 +29,5 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
 
 - Medium 
 
-- display GIF
+- Work flow
+  <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-gif/invoice_classify.gif" alt = "flow"/>
