@@ -15,20 +15,20 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
 
 ### Technologies used ⚙️:
 
-- Python <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/python.svg" alt = "Python" width="35" height="20"/>
-- MSSQL <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/mssql.svg" alt = "mssql" width="35" height="20"/>
-- Excel <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/excel.svg" alt = "excel" width="35" height="20"/>
+- Python <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/python.svg" alt = "Python" width="35" height="20"/>
+- MSSQL <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/mssql.svg" alt = "mssql" width="35" height="20"/>
+- Excel <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/excel.svg" alt = "excel" width="35" height="20"/>
 
 ##### Python Libraries : 
-- Selenium <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/selenium.svg" alt = "selenium" width="35" height="20"/> |
-  Multiprocessing <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/multiprocess.svg" alt = "multiprocess" width="35" height="20"/> | 
-  Pandas  <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/pandas.svg" alt = "pandas" width="35" height="20"/>
-  | Numpy <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/numpy.svg" alt = "numpy" width="35" height="20"/>
+- Selenium <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/selenium.svg" alt = "selenium" width="35" height="20"/> |
+  Multiprocessing <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/multiprocess.svg" alt = "multiprocess" width="35" height="20"/> | 
+  Pandas  <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/pandas.svg" alt = "pandas" width="35" height="20"/>
+  | Numpy <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-svg/numpy.svg" alt = "numpy" width="35" height="20"/>
 
 ### Share My Results
 - Work flow
 
- <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-gif/invoice_classify.gif" alt = "flow"/>
+ <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-gif/invoice_classify.gif" alt = "flow"/>
  
-- [Read more on my Medium](https://medium.com/@blackteapanda/classify-invoice-data-using-selenium-2588e3917df6)
+- Read more on my Medium：[Classify Invoice Data Using Selenium](https://medium.com/@blackteapanda/classify-invoice-data-using-selenium-2588e3917df6)
 
