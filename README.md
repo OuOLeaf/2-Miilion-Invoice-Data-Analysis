@@ -29,6 +29,8 @@ An invoice is an essential record of everyday transactions. Whether we purchase 
 - Work flow
 
  <img src="https://github.com/OuOLeaf/2-Miilion-Invoice-Data-Analysis/blob/main/readme-gif/invoice_classify.gif" alt = "flow"/>
- 
+
+- The folder of display code has the entire process of workflow.
+
 - Read more on my Medium：[Classify Invoice Data Using Selenium](https://medium.com/@blackteapanda/classify-invoice-data-using-selenium-2588e3917df6)
 
